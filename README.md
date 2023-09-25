@@ -14,7 +14,7 @@ This is a simple web application that allows users to check the weather for a gi
 
 ## Demo
 
-You can see a live demo of the application [here]([https://example.com/my-weather-app](https://aluthra999.github.io/weather/).
+You can see a live demo of the application [here](https://example.com/my-weather-app](https://aluthra999.github.io/weather/).
 
 ## Features
 
